@@ -7,3 +7,4 @@ Kode ala-ala Python
   * Polynomial Interpolate
   * Derivatif and Integral
   * Linear Equation System
+  * ANAVA DE
